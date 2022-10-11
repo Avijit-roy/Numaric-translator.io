@@ -1,4 +1,4 @@
-# Numaric-translator.io
+# Numeric-translator.io
 https://avijit-roy.github.io/Numeric_translator.io/
 <br>
 <hr>
